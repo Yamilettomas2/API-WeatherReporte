@@ -1,0 +1,4 @@
+È16:29:44.861 [Test worker] DEBUG org.springframework.web.client.RestTemplate - HTTP GET https://api.openweathermap.org/data/2.5/weather?lat=-14.554&lon=-87.234&appid=c25a3a460039d02c06fcbfce5563d4d3
+~16:29:44.986 [Test worker] DEBUG org.springframework.web.client.RestTemplate - Accept=[application/json, application/*+json]
+`16:29:45.534 [Test worker] DEBUG org.springframework.web.client.RestTemplate - Response 200 OK
+‹16:29:45.550 [Test worker] DEBUG org.springframework.web.client.RestTemplate - Reading to [org.adaschool.Weather.data.WeatherApiResponse]
